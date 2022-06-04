@@ -4,7 +4,7 @@
         orientacion+x
         orientacion+y
         orientacion+z
-        orientacion-xW
+        orientacion-x
         orientacion-y
         orientacion-z
         
